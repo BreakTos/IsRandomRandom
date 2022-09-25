@@ -40,6 +40,6 @@ LowestFreq=arra[i];
 }
 }
 System.out.println("The highest number of random numbers were"+highestFreq);
-System.out.println("The Lowest number of random numbers were"+LowestFreq);
+System.out.println("The Lowest number of random numbers were"+LowestFreq+" #Justice for "+LowestFreq);
 }
 }
